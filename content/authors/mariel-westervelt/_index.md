@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Nelson Bighetti
-
+name: Mariel Westervelt
+avatar_image: "park.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Developer @
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tampa Bay Times
+  url: "https://tampabay.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

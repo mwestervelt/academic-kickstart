@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "things i'm good at"
 
 # Showcase personal skills or business features.
 # 
@@ -15,18 +15,24 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "js-square"
   icon_pack = "fab"
-  name = "R"
+  name = "JavaScript"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "react"
+  icon_pack = "fab"
+  name = "React"
   description = "100%"  
   
 [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "10%"
+
+  [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
