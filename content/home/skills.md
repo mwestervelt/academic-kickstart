@@ -27,15 +27,15 @@ subtitle = "things i'm good at"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "file-code"
   icon_pack = "fas"
-  name = "Photography"
+  name = "HTML + CSS"
   description = "10%"
 
   [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "gem"
+  icon_pack = "far"
+  name = "Ruby"
   description = "10%"
 
 +++
